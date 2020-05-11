@@ -1,0 +1,5 @@
+include ':work_manager'
+include ':job_scheduler'
+include ':timer'
+include ':alarm_manager'
+rootProject.name = "Tasks"

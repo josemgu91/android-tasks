@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jetpack WorkManager</string>
+    <string name="instructions">Presiona el botón para despachar la tarea. Revisa el Logcat para ver el estado de la tarea.</string>
+    <string name="dispatch_task">Despachar Tarea</string>
+</resources>

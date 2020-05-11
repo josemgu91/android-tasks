@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android JobScheduler</string>
+    <string name="schedule_job">Despachar Tarea</string>
+    <string name="instructions">Presiona el botón para despachar la tarea. Revisa el Logcat para ver el estado de la tarea.</string>
+</resources>

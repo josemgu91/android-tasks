@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="hint_delay_in_milliseconds">Intervalo en milisegundos.</string>
+    <string name="implementation_loop_timer">Loop Timer</string>
+    <string name="implementation_handler_timer_runnables">Handler Timer (Runnables)</string>
+    <string name="implementation_handler_timer_messages">Handler Timer (Messages)</string>
+    <string name="implementation_java_timer">Java Timer</string>
+    <string name="timer_implementation_header">Implementación</string>
+    <string name="instructions">Ingresa el intervalo de actualización en milisegundos y la implementación para el repetidor de tareas.</string>
+    <string name="start_timer">Iniciar</string>
+    <string name="error_no_number">Debes ingresar números.</string>
+    <string name="time">Reloj del sistema: %.3f\nActualizaciones: %d\n</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android AlarmManager</string>
+    <string name="action_program_alarm">Programar Alarma</string>
+    <string name="hint_time_in_seconds">Tiempo en segundos.</string>
+    <string name="instructions">Ingresa el tiempo en segundos dentro del cual se disparará la alarma.</string>
+    <string name="error_no_number">Debes ingresar números.</string>
+    <string name="status_alarm_programmed">La alarma fue programada.</string>
+    <string name="alarm_notification_channel_name">Alarma</string>
+    <string name="alar_notification_content">¡La alarma se ha disparado!</string>
+</resources>
